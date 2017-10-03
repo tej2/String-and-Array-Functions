@@ -212,12 +212,4 @@ echo end($vegetables);
 <p> 20. Calculate the sum of values in an array </p>
 
 <?php
-$a = array(2, 54, 67, 8);
-echo "sum(a) = " . array_sum($a) . "\n";
-
-$b = array("a" => 1.52, "b" => 42.3, "c" => 3.74);
-echo "sum(b) = " . array_sum($b) . "\n";
-?>
-
-<hr>
-
+$a = array(2,
